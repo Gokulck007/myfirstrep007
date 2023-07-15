@@ -1,2 +1,2 @@
 # myfirstrep007
-Itsa demo for learning purpose
+It is a demo for learning purpose
